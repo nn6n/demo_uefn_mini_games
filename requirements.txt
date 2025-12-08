@@ -5,3 +5,4 @@ furo==2023.5.20
 sphinx-copybutton
 sphinx-book-theme
 sphinxcontrib-images
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
